@@ -1,17 +1,15 @@
 ❴
-    "name": "Mercado Liebre",
+    "name": "Mercado-Liebre",
     "version": "2.24.3",
     "description":"",
     "main": "app.js"
 
     "scripts":{
-     "start": "node --watch app.js",
      "test": "nodemon src/index.js",
-     "node": "node --watch app.js",
      "start": "node app.js"
     }
 
-    "keywords": ❴❵,
+    "keywords": [],
     "author": "",
     "license": "ISC",
     "dependencies": ❴
