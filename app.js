@@ -5,7 +5,7 @@ const path= require ("path");
 const publicPath=path.resolve(__dirname, "./public");
 app.use (express.static (puclicPath));
 
-const port = proess.env.PORT || 3000;
+const port = proess.env.PORT || 3001;
 app.listen (port, () =>
 console.log ('Servidor corriendo en Puerto $❴port❵')
 );
